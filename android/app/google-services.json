@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333197525739",
+    "project_id": "react-native-flutter-demo",
+    "storage_bucket": "react-native-flutter-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333197525739:android:61ad2e740225bf167d34ae",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333197525739-bt4hpks1jgiuoj8p98gi8ikmrv656650.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_G9Qwe7SNA3aUc2-QAxadgN0cJPc7cpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333197525739-bt4hpks1jgiuoj8p98gi8ikmrv656650.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
